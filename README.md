@@ -11,8 +11,8 @@
 
 ## 🚀 Tech Stack  
 
-**Frontend:** React, HTML, CSS, Bootstrap  
+**Frontend:** React, HTML, CSS, Bootstrap, Javascript
 **Backend:** Laravel, CodeIgniter, PHP  
-**Database:** MySQL  
+**Database:** MySQL, MS SQL, MongoDB
 **Mobile:** Flutter  
 **Others:** Git, GitHub, APIs 
