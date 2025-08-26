@@ -16,12 +16,3 @@
 **Database:** MySQL  
 **Mobile:** Flutter  
 **Others:** Git, GitHub, APIs 
-
----
-
-## 📈 GitHub Stats  
-
-![Aban's GitHub stats](https://github-readme-stats.vercel.app/api?username=abanali&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abanali&layout=compact&theme=tokyonight)  
-
----
