@@ -2,10 +2,9 @@
 
 👋 Hi, I'm **Aban Ali**  
   
-🌐 **Full Stack Developer** — Laravel | CodeIgniter | React | PHP | MySQL  
-📱 Exploring **Flutter & Mobile App Development**  
-🎮 Passionate about building **Games & Communities**  
-🌱 Always **learning & improving** with new technologies  
+**Full Stack Developer** — Laravel | CodeIgniter | Flutter | React | PHP | MySQL  
+Passionate about building **Websites & Mobile Applications**  
+Always **learning & improving** with new technologies  
 
 ---
 
